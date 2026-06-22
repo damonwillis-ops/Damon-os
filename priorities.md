@@ -2,16 +2,23 @@
 
 Ranked by current focus. Advisor uses this to weight recommendations.
 
-1. **Unblock Groundtruth Railway deploy** — 4 known bugs blocking production. Fix these first.
-   - Why: Can't validate newsletter revenue model until it's live.
-   
-2. **Director-track job search — targeted outreach** — Semi-open search, enterprise security roles.
-   - Why: Walmart role is strong but ceiling is visible. Director move is the next level unlock.
+1. **Groundtruth subscriber growth** — Railway fixed. Post issue 2. DM 20 peers. Build Buffer automation.
+   - Why: 0 subscribers = no business. First 100 subs is the proof of life milestone.
 
-3. **CISSP study — consistent weekly progress** — Not urgent, but compounding. 
-   - Why: Credential gap in pure IT roles. Closes with CISSP.
+2. **SAIP Sprint 1+2 scaffold** — Backend not built yet. Next session: FastAPI, models, Alembic, JWT auth, RBAC.
+   - Why: 6-month pilot customer deadline. Every week of delay = harder to hit.
+   - Blocker: Confirm CISSP partner has PostGIS + pgvector on Supabase dev instance.
 
-4. **Damon OS system build** — This system itself.
-   - Why: Multiplies effectiveness of everything above once operational.
+3. **Director-track job search — targeted outreach** — Semi-open search, enterprise security roles.
+   - Why: Walmart ceiling visible. Director move = income bridge while SAIP/Groundtruth develop.
+
+4. **CISSP study — consistent weekly progress**
+   - Why: Closes credential gap for CISO-track. Required for some Director roles. Schedule exam date.
+
+5. **Damon OS — ongoing**
+   - Why: Multiplies everything above. System now operational.
+
+## Strategic Frame (Q3-Q4 2026)
+Groundtruth builds the audience. SAIP is the enterprise product. Director role (or current Walmart) funds the runway. All three must move in parallel — dropping any one kills the others' support structure.
 
 Last updated: 2026-06-22
