@@ -7,13 +7,12 @@ Automated physical security newsletter. Ghost + Stripe for content/payments. Rai
 BLOCKED — 4 bugs preventing Railway deploy.
 
 ## Known Bugs (blocking)
-1. [To be documented as bugs are investigated]
-2.
-3.
-4.
+4 bugs confirmed. Details in Groundtruth repo issue tracker.
+Update this section when bugs are diagnosed: add title + root cause for each.
 
 ## Repo
-Path to be confirmed when working on this project.
+Update this with actual path when first working on Groundtruth in a session.
+Likely: ~/projects/groundtruth or ~/damon-projects/groundtruth
 
 ## Next Action
 Fix Railway deploy bugs. No subscriber growth work until live.

@@ -2,7 +2,7 @@
 
 ## Identity
 Damon Willis, CPP. Converged Security & Enterprise Risk Leader. Bella Vista AR 72715.
-Coast Guard veteran. No degree — CPP + 14 years progressive enterprise scale is the credential.
+Coast Guard veteran. CPP + 14 years progressive enterprise scale is the credential.
 
 ## Unfair Advantage
 CPP + Walmart 4,600-location enterprise scale + dual physical/InfoSec depth. Full risk lifecycle:
