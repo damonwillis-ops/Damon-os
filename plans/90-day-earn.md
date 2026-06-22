@@ -2,7 +2,7 @@
 **Created:** 2026-06-22
 **Strategy:** Consulting → SAIP flywheel. Walmart funds runway. Consulting opens revenue in 60-90 days. SAIP converts consulting clients to SaaS ARR. Groundtruth builds the audience that feeds both.
 
-**North star:** First consulting dollar by Day 60. First SAIP pilot conversation by Day 90.
+**North star:** First consulting dollar by Day 60. First SAIP pilot conversation by Day 90. Bluwood on paid subscription by Day 7.
 
 ---
 
@@ -27,6 +27,7 @@ Consulting ARR + SaaS ARR + Groundtruth sponsorship = real options on Walmart
 ## PHASE 1 — Launch Consulting (Days 1-30)
 
 ### Week 1: Plant flags
+- [ ] **CALL BLUWOOD OWNER TODAY** — "I'm turning this into a product. Founder rate $49/mo. You stay on it, I use you as reference customer." 5 minutes. First recurring SaaS revenue.
 - [ ] Post Groundtruth issue 2 (ready now — send it)
 - [ ] LinkedIn post 1: "Here's what we built at Walmart — APERTURE, an AI design assurance system for CCTV deployments before the truck rolls." Show the work. No pitch. Tag 2-3 relevant people.
 - [ ] DM 20 physical security peers directly. Personal, not blast. "I'm opening 2 advisory slots for Q3 — enterprise security programs navigating PSIM modernization or AI-CV deployment. Know anyone who'd benefit?" Former Walmart colleagues now at Director/VP roles elsewhere are the priority list.
@@ -89,6 +90,12 @@ Consulting ARR + SaaS ARR + Groundtruth sponsorship = real options on Walmart
 - [ ] Close second engagement: $12,500-15,000 (rack rate)
 - [ ] Apply learnings from first engagement to scope faster
 
+### ShopFlow — convert + expand
+- [ ] Bluwood confirmed on paid plan → add Stripe billing to supa-suite
+- [ ] Identify 2-3 other NW Arkansas custom manufacturers (cabinet shops, metal fab, millwork) — warm intro through Bluwood owner or local chamber
+- [ ] Pitch same founder rate: $49/mo, "product that Bluwood runs their business on"
+- [ ] Hold universal multi-tenant build until SAIP Sprint 1 done — don't split build focus
+
 ### Groundtruth milestone check
 - [ ] At 100+ subscribers: reach out to first potential sponsor (Genetec, ZeroEyes, or Verkada — start with smallest/most responsive)
 - [ ] Video pipeline: if Buffer + Reddit running smoothly, build Phase 2 video automation
@@ -99,12 +106,14 @@ Consulting ARR + SaaS ARR + Groundtruth sponsorship = real options on Walmart
 
 | Milestone | Timeline | Revenue |
 |-----------|----------|---------|
+| Bluwood paid subscription | Day 7 | $49/mo recurring |
 | First consulting deposit (50%) | Day 30-45 | $5,000 |
 | First engagement complete | Day 60 | $5,000 (balance) |
 | Second engagement signed | Day 75 | $6,250 (50% deposit) |
+| ShopFlow customer 2-3 (local outreach) | Day 60-90 | $99-198/mo recurring |
 | SAIP pilot conversation | Day 90 | $0 yet, but pipeline |
 | Groundtruth first sponsor | Month 6 | $1,000-2,500 |
-| **90-day total** | | **~$16,000** |
+| **90-day total** | | **~$16,500 + $300-400/mo MRR** |
 
 ---
 
@@ -151,10 +160,14 @@ Update this section each session.
 
 | Item | Status | Last Updated | Next Action |
 |------|--------|-------------|-------------|
+| **Bluwood paid conversion** | **NOT DONE** | 2026-06-22 | **Call owner TODAY** |
 | Groundtruth issue 2 | Ready to send | 2026-06-22 | Send today |
+| Ghost hosting | BROKEN (503, expired) | 2026-06-22 | Self-host on Railway (in progress) |
+| Portfolio site | Built, deploying | 2026-06-22 | Live at portfolio-production-b0ec7.up.railway.app |
 | Consulting launch posts | Not written | 2026-06-22 | Write LinkedIn post 1 |
 | DM outreach list | Not started | 2026-06-22 | Build list of 20 |
 | SAIP Sprint 1 | Blocked (Supabase) | 2026-06-22 | Ping CISSP partner |
+| ShopFlow Stripe billing | Not built | 2026-06-22 | After Bluwood confirms paid |
 | Buffer automation | Not built | 2026-06-22 | Build week 2 |
 | CISA/FBI sources | Not added | 2026-06-22 | Build week 2 |
 | First consulting lead | None | 2026-06-22 | Outreach week 1 |
