@@ -1,24 +1,35 @@
 # Priorities — Q3 2026
 
+**Active strategy:** Consulting-first flywheel. See `plans/90-day-earn.md` for full plan.
 Ranked by current focus. Advisor uses this to weight recommendations.
 
-1. **Groundtruth subscriber growth** — Railway fixed. Post issue 2. DM 20 peers. Build Buffer automation.
-   - Why: 0 subscribers = no business. First 100 subs is the proof of life milestone.
+1. **Consulting launch — Week 1 actions (DO THESE FIRST)**
+   - Send Groundtruth issue 2 (ready now)
+   - Write LinkedIn post 1: "Here's what we built at Walmart — APERTURE"
+   - Build DM list of 20 physical security peers, send personal outreach
+   - Why: First consulting deposit target = Day 30-45. Clock is running.
 
-2. **SAIP Sprint 1+2 scaffold** — Backend not built yet. Next session: FastAPI, models, Alembic, JWT auth, RBAC.
-   - Why: 6-month pilot customer deadline. Every week of delay = harder to hit.
-   - Blocker: Confirm CISSP partner has PostGIS + pgvector on Supabase dev instance.
+2. **SAIP Sprint 1+2 scaffold**
+   - Blocker: ping CISSP partner — confirm PostGIS + pgvector on Supabase
+   - Once clear: FastAPI skeleton, models, Alembic, JWT auth, RBAC
+   - Why: 6-month pilot deadline = December 2026. Consulting client becomes pilot customer.
 
-3. **Director-track job search — targeted outreach** — Semi-open search, enterprise security roles.
-   - Why: Walmart ceiling visible. Director move = income bridge while SAIP/Groundtruth develop.
+3. **Groundtruth automation + subscriber growth**
+   - Build Buffer API auto-queue (kill manual LinkedIn paste)
+   - Add CISA + FBI RSS sources
+   - Reddit posts on publish day
+   - Target: 100 subs by Day 60
+   - Why: Audience = consulting credibility = SAIP warm pipeline
 
-4. **CISSP study — consistent weekly progress**
-   - Why: Closes credential gap for CISO-track. Required for some Director roles. Schedule exam date.
+4. **Director-track job search — hold, do not drop**
+   - Keep 1-2 conversations warm per month
+   - No active applications until consulting traction is known
+   - Why: Leverage. If consulting hits $15K/mo, Walmart offer is a different negotiation.
 
-5. **Damon OS — ongoing**
-   - Why: Multiplies everything above. System now operational.
+5. **CISSP — weekly minimum**
+   - Schedule exam date (hard deadline creates urgency)
+   - 5 hrs/week minimum study
+   - Why: Closes credential gap, required for some Director roles, feeds CISO track
 
-## Strategic Frame (Q3-Q4 2026)
-Groundtruth builds the audience. SAIP is the enterprise product. Director role (or current Walmart) funds the runway. All three must move in parallel — dropping any one kills the others' support structure.
-
-Last updated: 2026-06-22
+## Last Updated
+2026-06-22
